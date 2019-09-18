@@ -4,6 +4,7 @@ Leo va a encontrar como hacer un commit duplicado!
 
 Mauro: Buscar definición de branch.
 
+Por favor, mezclar esto en master 
 
 ## Nueva sección 
 
